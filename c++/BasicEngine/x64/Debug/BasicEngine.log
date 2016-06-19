@@ -1,0 +1,3 @@
+﻿  cDeviceManager.cpp
+c:\users\park\desktop\public main\projects\parkgunuk\c++\basicengine\cdevicemanager.cpp(160): warning C4715: 'cDeviceManager::CreateDevice': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  BasicEngine.vcxproj -> C:\Users\Park\Desktop\Public Main\Projects\ParkGunUk\c++\BasicEngine\x64\Debug\BasicEngine.exe
