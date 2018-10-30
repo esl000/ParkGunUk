@@ -80,6 +80,8 @@ int APIENTRY wWinMain(_In_ HINSTANCE hInstance,
 	GetExitCodeThread(pRenderHandle, &dwExitCode);
 	ExitThread(dwExitCode);
 
+
+
 	SAFE_DELETE(pMain);
 
     return (int) msg.wParam;
