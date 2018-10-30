@@ -1,6 +1,9 @@
 
 # Created by https://www.gitignore.io/api/c,c++,visualstudio,openframeworks+visualstudio
 
+# TEST
+*.VC.db
+
 ### C ###
 # Prerequisites
 *.d
